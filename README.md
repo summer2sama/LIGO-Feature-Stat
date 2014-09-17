@@ -1,2 +1,0 @@
-LIGO-Feature-Stat
-=================

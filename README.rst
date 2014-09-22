@@ -18,8 +18,7 @@ Algorithm
 
 Dataset
 =======
-- Get S6_100ms_full_train.dat.model to find the Hyper-Plane Vectors.
- - Information about the model is as follows
+- Get S6_100ms_full_train.dat.model to find the Hyper-Plane Vectors. Information about the model is as follows
    +--------------+--------------+
    |svm_type      |c_svc         |
    +--------------+--------------+
